@@ -3,5 +3,5 @@
 
 Enjoy the site, and here are some urls if you wanna connect with me.
 
-[Twitterr](https://twitter.com/atharva_gangji)
-[Instaa](https://instagram.com/atharva.gangji)
+- [Twitterr](https://twitter.com/atharva_gangji)
+- [Instaa](https://instagram.com/atharva.gangji)
