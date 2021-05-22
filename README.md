@@ -1,2 +1,2 @@
-# This is an website made by me.
+# This is a portfolio website made by me.
 ## Find it here: [Website](https://atharva-gangji.netlify.app)
